@@ -1,2 +1,6 @@
-# jahad-blog-project
-jahad blog project with laravel
+# پروژه وبلاگ
+پروژه وبلاگ برای درس پروژه طراحی گردیده است
+استاد : جناب حبیب اقدسی نیا
+دانشجو : مهدی اکبرزاده
+سال : زمستان 95
+زبان های برنامه نویسی : php laravel,jquery,ajax,css3,bootstrap
